@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mplconfig/
+build/
+dist/
+*.spec
+
+# Keep the checked-in demo report/database if one is intentionally shipped;
+# ignore ad-hoc run folders and temporary exports.
+artifacts/*
+reports/*/tmp/
+reports/*_backup_/
+reports/check-*/
