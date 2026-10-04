@@ -10,5 +10,5 @@ dist/
 # ignore ad-hoc run folders and temporary exports.
 artifacts/*
 reports/*/tmp/
-reports/*_backup_/
+reports/*_backup_*/
 reports/check-*/

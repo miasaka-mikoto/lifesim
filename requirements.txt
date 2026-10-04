@@ -1,0 +1,3 @@
+# LifeSim runs with the Python standard library only.
+# Optional dashboard PNG export: matplotlib (Pillow is also accepted).
+

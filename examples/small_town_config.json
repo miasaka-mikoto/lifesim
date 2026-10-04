@@ -1,0 +1,9 @@
+{
+  "name": "Small Town 01",
+  "seed": 20261004,
+  "agents": 10,
+  "days": 30,
+  "provider": "RuleBasedProvider",
+  "offline": true,
+  "notes": "Bundled deterministic demo; values are simulation parameters, not human diagnoses."
+}
